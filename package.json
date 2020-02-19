@@ -21,7 +21,7 @@
     "react-select": "^3.0.8",
     "redux": "^4.0.4",
     "swiper": "^5.2.1",
-    "yarn": "^1.21.0"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "yarn run cross-env NODE_PATH=src react-scripts start",
